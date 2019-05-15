@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import withDeconstruction from './views/demo1.vue'
-import withOutDeconstruction from './views/demo1.vue'
+import withOutDeconstruction from './views/demo2.vue'
 
 Vue.use(Router)
 

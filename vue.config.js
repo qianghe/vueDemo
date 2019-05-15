@@ -1,3 +1,4 @@
 module.exports = {
-  lintOnSave: false
+  lintOnSave: false,
+  publicPath: process.env.PUBLIC_PATH
 }
